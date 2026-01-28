@@ -18,7 +18,7 @@ This project requires access to the megabot original codebase written by Rhoban.
 ### Install Instruction from this repository on the original megabot code
 * Clone the megabot control repository ```git clone https://github.com/Rhoban/megabot.git```
 * Go to the root of the newly cloned repository ```cd ./megabot```
-* Clone this repository ```git clone <TO BE COMPLETED> ```
+* Clone this repository ```git clone https://github.com/ncornet001/Megabot-RollerCoaster ```
 * Install poetry with pipy ```pip install poetry```
 * Install dependencies using poetry ```poetry install```
 
